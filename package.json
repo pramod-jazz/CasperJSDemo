@@ -1,0 +1,27 @@
+{
+  "name": "casperjsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JourneyTest.js",
+  "scripts": {
+    "test": "./node_modules/mocha-casperjs/bin/mocha-casperjs JourneyTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramod-jazz/CasperJSDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramod-jazz/CasperJSDemo/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "casper-chai": "~0.2.1",
+    "chai": "~1.8.1",
+    "mocha-casperjs": "~0.3.2",
+    "mocha": "~1.14.0",
+    "phantomjs-prebuilt": "^2.1.8"
+  },
+  "homepage": "https://github.com/pramod-jazz/CasperJSDemo#readme"
+}
